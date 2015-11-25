@@ -1,2 +1,2 @@
 # GomokuPlus
-Gomoku Game for Android devices
+A Gomoku Game for Android devices
